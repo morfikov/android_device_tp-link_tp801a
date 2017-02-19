@@ -12,7 +12,7 @@ Memory  | 1 GB
 Shipped Android Version | Android 6.0
 Storage | 8 GB
 MicroSD | Up to 32 GB
-Battery | 220 mAh
+Battery | 2020 mAh
 Dimensions | 133.4 x 66.6 x 9.8 mm
 Display | 854 x 480 pixels 4.5"
 Rear Camera  | 5.0 MP
