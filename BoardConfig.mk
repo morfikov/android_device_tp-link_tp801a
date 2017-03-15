@@ -155,8 +155,8 @@ TARGET_USE_CUSTOM_LUN_FILE_PATH :=  /sys/devices/platform/msm_hsusb/gadget/lun1/
 TW_BRIGHTNESS_PATH := /sys/class/leds/lcd-backlight/brightness
 TW_MAX_BRIGHTNESS := 255
 TW_DEFAULT_BRIGHTNESS := 10
-#TW_NO_SCREEN_TIMEOUT := false
-#TW_NO_SCREEN_BLANK := false
+TW_NO_SCREEN_TIMEOUT := true
+TW_NO_SCREEN_BLANK := true
 TW_NEVER_UNMOUNT_SYSTEM := false
 
 # You only want to use TW_TARGET_USES_QCOM_BSP to enable overlay graphics if you can't get a
