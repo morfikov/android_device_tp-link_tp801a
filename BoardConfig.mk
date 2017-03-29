@@ -121,7 +121,7 @@ TWRP_INCLUDE_LOGCAT := true
 
 ### SELinux
 TWHAVE_SELINUX := true
-include device/qcom/qcom-sepolicy/sepolicy.mk
+#include device/qcom/qcom-sepolicy/sepolicy.mk
 
 BOARD_SEPOLICY_DIRS += \
 	$(LOCAL_PATH)/sepolicy
